@@ -23,7 +23,7 @@ The overall structure of the program can be seen as follows:
 
 ## Execution Environment & Software Versions
 
-⚠️ Please ensure that you have Python version 3.11 or higher installed on your system, <u>otherwise the code will not execute properly</u>. ⚠️
+⚠️ Ensure that you have Python version 3.11 or higher installed on your system, <u>otherwise the code will not execute properly</u>. ⚠️
 
 
 ## External Packages (pip)
